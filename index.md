@@ -11,3 +11,5 @@ Webpage: https://geraldsoosairaj.github.io/
 Course Details
 
 Labs
+
+Lab Reports
