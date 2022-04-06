@@ -7,3 +7,5 @@ Lecture: Wed @ 5 - 6:50pm
 Office Hours: Wed 9 - 10am, Fri 12 - 1pm, or by appointments.
 
 Webpage: https://geraldsoosairaj.github.io/
+
+Course Details
