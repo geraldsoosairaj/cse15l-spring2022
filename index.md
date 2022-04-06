@@ -4,4 +4,3 @@ Instructor: Gerald Soosai Raj
 
 Office Hours: Wed 9 - 10am, Fri 12 - 1pm, or by appointments.
 
-![Iliana](images/Iliana.jpg)
